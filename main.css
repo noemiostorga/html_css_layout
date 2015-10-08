@@ -1,12 +1,15 @@
 .octocat {
-
+box-sizing: border-box;
+height: 400px;
+width: 400px;
+float: left;
 }
 
 .octocat a > img {
  height: 300px;
  width: 300px;
  border: 1px solid grey;
- margin: 10px;
+
 
 
 
@@ -23,6 +26,7 @@
 .authors li a > img {
 	height: 50px;
 	width: 50px;
+	float: right;
 
 
 
