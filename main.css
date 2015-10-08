@@ -1,9 +1,35 @@
-.octocat a > img {
- height: 200px;
- width: 200px;
+.octocat {
+
 }
 
-.authors li a> img {
+.octocat a > img {
+ height: 300px;
+ width: 300px;
+ border: 1px solid grey;
+ margin: 10px;
+
+
+
+
+}
+
+.image-footer{
+
+
+
+}
+
+
+.authors li a > img {
 	height: 50px;
 	width: 50px;
+
+
+
+}
+
+
+
+li{
+list-style: none;
 }
