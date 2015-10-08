@@ -1,8 +1,10 @@
 .octocat {
-box-sizing: border-box;
-height: 400px;
-width: 400px;
+
+height: 300px;
+width: 300px;
 float: left;
+
+padding: 10px;
 }
 
 .octocat a > img {
@@ -10,28 +12,28 @@ float: left;
  width: 300px;
  border: 1px solid grey;
 
-
-
-
-
 }
 
 .image-footer{
-
 
 
 }
 
 
 .authors li a > img {
-	height: 50px;
-	width: 50px;
-	float: right;
+  height: 20px;
+  width: 20px;
+  float: right;
+  /**margin-top: -21px;
+  margin-right: 17px;*/
 
 
 
 }
 
+.span{
+	float: left;
+}
 
 
 li{
